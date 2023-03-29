@@ -1,0 +1,30 @@
+@media print {
+    .text-5xl {
+      font-size: 2rem; /* adjust the value as per your requirement */
+    }
+    .text-2xl {
+      font-size: 1rem; /* adjust the value as per your requirement */
+    }
+    .text-lg {
+        font-size: 0.8rem;
+    }
+    .text-xl {
+        font-size: 1rem;
+    }
+    .h-48 {
+        height: 6rem;
+    }
+    .w-72{
+        width: 9rem;
+    }
+    .w-96{
+        width: 20rem;
+    }
+    .p-1{
+        padding: 2px;
+    }
+    .gap-10{
+        gap: 20px;
+    }
+  }
+  
